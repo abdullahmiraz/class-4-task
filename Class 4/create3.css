@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.div0{
+    
+    height: 560px;
+    width: 600px;
+    text-align: center;
+    border: 2px solid #6d2b3046;
+    border-radius: 6px;
+    margin: 70px auto;
+    color: rgb(2, 143, 153);
+    font-weight: 600;
+    background-color: rgb(33, 33, 33) ;
+    box-shadow: 10px 10px 10px #2e2828;
+    
+}
+.div0 h1{
+    color: rgb(196, 79, 36) ;
+    padding: 20px 10px;
+     
+}
+.div0 input {
+    padding: 4px 3px;
+    margin: 10px 3px;
+    border-radius: 4px;
+    background-color: rgb(220, 233, 100);
+
+}
+
+.div1 {
+    float: left;
+   
+    padding: 0px 85px;
+    padding-left: 2px;
+    margin-left: 24px;
+    
+
+}
+.div2 {
+    float: left;
+   
+    padding-left: 10px;
+    border-left: 3px solid green;
+  height: 450px;
+
+}
+a{
+    text-decoration: none;
+    line-height: 40px;
+    color: yellow;
+    
+}
+#tel{
+    background-color: rgb(220, 233, 100);
+    width: 80px;
+    margin-right: -11px;
+    border-radius: 4px;
+    
+    
+}
+.drop{
+    color: rgb(58, 31, 31);
+    height: 24px;
+    border: 2px solid rgb(220, 233, 100);
+    
+
+}
+.div0{
+    
+}
